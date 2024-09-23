@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Futebol',
+    'Quantas copas do mundo o Brasil tem?',
+    'O Brasil tem 5 copas do mundo'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quanto tempo a Terra demora para dar uma volta completa em torno dela mesma?',
+    'A Terra demora aproximadamente 24 horas'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biologia',
+    'Quantos ossos temos no nosso corpo?',
+    'O corpo humano tem 206 ossos'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Matematica',
+    'Um anel tem 3 pedras preciosas. Quantas pedras preciosas têm 11 anéis?',
+    '33 pedras'
 )
