@@ -21,3 +21,15 @@ criaCartao(
     'Um anel tem 3 pedras preciosas. Quantas pedras preciosas têm 11 anéis?',
     '33 pedras'
 )
+
+criaCartao(
+    'Geografia',
+    'Qual é o maior deserto do mundo?',
+    'Deserto da Antártida'
+)
+
+criaCartao(
+    'História',
+    'Quem foi o líder da Revolução Francesa?',
+    'Maximilien Robespierre'
+)
